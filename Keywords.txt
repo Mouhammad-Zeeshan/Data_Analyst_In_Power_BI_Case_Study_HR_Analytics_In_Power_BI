@@ -1,0 +1,5 @@
+CASE STUDY - HR ANALYTICS IN BI.
+
+1. User Realation Function is used to create relation between Measure and and Dimension Table.
+
+2. 
